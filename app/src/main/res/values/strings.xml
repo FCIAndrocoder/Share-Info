@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShareInfo</string>
+    <string-array name="acc_type">
+        <item>Select one</item>
+        <item>User</item>
+        <item>Admin</item>
+    </string-array>
+
+</resources>
